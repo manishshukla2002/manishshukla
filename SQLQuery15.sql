@@ -1,0 +1,12 @@
+insert into fee_payment values('deepak123@gmil.com',3000,'Gpay','2022-10-23'),
+('priya001@gmil.com',5000,'Paytm','2022-10-25'),
+('deepak123@gmil.com',4000,'Cash','2022-10-23'),
+('002sohan@gmil.com',3000,'Cash','2022-10-23'),
+('deepak123@gmil.com',5000,'Cash','2022-10-20'),
+('Priya001@gmil.com',5000,'Gpay','2022-10-20'),
+('981rohankr@gmil.com',8000,'Paytm','2022-10-23'),
+('singhsiya@gmil.com',6000,'Cash','2022-10-20'),
+('981rohankr@gmil.com',2000,'Cash','2022-10-25'),
+('singhsiya@gmil.com',6000,'Paytm','2022-10-26'),
+('981rohankr@gmil.com',6000,'Gpay','2022-10-26'),
+('singhsiya@gmil.com',2000,'Cash','2022-10-26')
